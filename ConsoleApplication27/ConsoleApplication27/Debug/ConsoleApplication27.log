@@ -1,0 +1,13 @@
+﻿  ConsoleApplication27.cpp
+C:\Users\fuuuu\source\repos\ConsoleApplication27\ConsoleApplication27\ConsoleApplication27.cpp(23,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\fuuuu\source\repos\ConsoleApplication27\ConsoleApplication27\ConsoleApplication27.cpp(24,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\fuuuu\source\repos\ConsoleApplication27\ConsoleApplication27\ConsoleApplication27.cpp(28,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\fuuuu\source\repos\ConsoleApplication27\ConsoleApplication27\ConsoleApplication27.cpp(43,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\fuuuu\source\repos\ConsoleApplication27\ConsoleApplication27\ConsoleApplication27.cpp(17,28): warning C4101: fx: неиспользованная локальная переменная
+C:\Users\fuuuu\source\repos\ConsoleApplication27\ConsoleApplication27\ConsoleApplication27.cpp(57,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\fuuuu\source\repos\ConsoleApplication27\ConsoleApplication27\ConsoleApplication27.cpp(58,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\fuuuu\source\repos\ConsoleApplication27\ConsoleApplication27\ConsoleApplication27.cpp(62,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\fuuuu\source\repos\ConsoleApplication27\ConsoleApplication27\ConsoleApplication27.cpp(70,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\fuuuu\source\repos\ConsoleApplication27\ConsoleApplication27\ConsoleApplication27.cpp(71,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\fuuuu\source\repos\ConsoleApplication27\ConsoleApplication27\ConsoleApplication27.cpp(75,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  ConsoleApplication27.vcxproj -> C:\Users\fuuuu\source\repos\ConsoleApplication27\Debug\ConsoleApplication27.exe
